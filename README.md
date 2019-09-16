@@ -8,8 +8,12 @@ before..
 ![1](https://github.com/Zzz1227/Anime4K_matlab/blob/master/images/test.jpg)  
 after..  
 ![2](https://github.com/Zzz1227/Anime4K_matlab/blob/master/results/test_after.jpg)  
+![1-1](https://github.com/Zzz1227/Anime4K_matlab/blob/master/results/patch(nb)_test.jpg)
+![2-1](https://github.com/Zzz1227/Anime4K_matlab/blob/master/results/patch(nb)_test_after.jpg)
 
 before..  
 ![3](https://github.com/Zzz1227/Anime4K_matlab/blob/master/images/TH.jpg)  
 after..  
 ![4](https://github.com/Zzz1227/Anime4K_matlab/blob/master/results/TH_after.jpg)  
+![3-1](https://github.com/Zzz1227/Anime4K_matlab/blob/master/results/patch(nb)_TH.jpg)
+![4-1](https://github.com/Zzz1227/Anime4K_matlab/blob/master/results/patch(nb)_TH_after.jpg)
